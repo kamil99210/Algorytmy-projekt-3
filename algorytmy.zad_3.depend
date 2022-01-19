@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1642546034 source:c:\users\kamil\onedrive\pulpit\algorytmy.zad_3\main.cpp
+	<iostream>
+	<windows.h>
+	"woid.h"
+	<iomanip>
+	<cstdlib>
+
+1642007490 source:c:\users\kamil\onedrive\pulpit\algorytmy.zad_3\class.cpp
+	<iostream>
+	"class.h"
+	<cstdlib>
+
+1642008789 c:\users\kamil\onedrive\pulpit\algorytmy.zad_3\class.h
+	<iostream>
+
+1642543906 source:c:\users\kamil\onedrive\pulpit\algorytmy.zad_3\woid.cpp
+	<iostream>
+	"woid.h"
+	<cstdlib>
+	<windows.h>
+	<iomanip>
+
+1642536311 c:\users\kamil\onedrive\pulpit\algorytmy.zad_3\woid.h
+	"lis.h"
+	<cstddef>
+
+1642007490 source:c:\users\kamil\onedrive\pulpit\algorytmy.zad_3\clas.cpp
+	<iostream>
+	"class.h"
+	<cstdlib>
+
+1642535443 source:c:\users\kamil\onedrive\pulpit\algorytmy.zad_3\lis.cpp
+	"lis.h"
+	<cstddef>
+
+1642535400 c:\users\kamil\onedrive\pulpit\algorytmy.zad_3\lis.h
+	<cstddef>
+
+1642006718 source:c:\users\kamil\onedrive\pulpit\as\main.cpp
+	<iostream>
+	<windows.h>
+	<iomanip>
+	<cstdlib>
+
