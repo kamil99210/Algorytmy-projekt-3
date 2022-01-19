@@ -4,10 +4,10 @@ lista jednokierunkowa
 
 Z jej możeliwościami działanie na niej
 
-#Kod
+# Kod
 
 główny kod jest w pliku "main.cpp"
 
-#Sprawozdanie
+# Sprawozdanie
 
 Sprawozdanie jest w pliku "Projekt Algorytmy.pdf"
