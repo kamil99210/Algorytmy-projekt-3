@@ -10,4 +10,4 @@ główny kod jest w pliku "main.cpp"
 
 # Sprawozdanie
 
-Sprawozdanie jest w pliku "Projekt Algorytmy.pdf"
+Sprawozdanie jest w pliku "PAlgorytmy i struktury danych.pdf"
